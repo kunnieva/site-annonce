@@ -3,10 +3,12 @@ html {
     padding:0;
 }
 
+
 header {
     margin-top:0;
-    min-height:0vh;
+    min-height:30vh;
     margin-bottom:0;
+    background-color:white;
 }
 
 nav {
@@ -27,11 +29,9 @@ nav {
     background-color:red;
     box-shadow: 3px 3px white;
     color:white;
-}1
+}
 
 .logo {
-    
-    background-color:red;
     width:100px;
     height:100px;
 }
@@ -42,25 +42,51 @@ nav {
     display:flex;
     flex-direction:row;
     justify-content: flex-end;
-
-
 }
-.menu a {   
+.recherche, .aide {
+    zoom:1.1;
+}
+
+
+menu a {   
     list-style:none;
     background-color:rgb(0, 255, 136);    
     width:20rem;
     color:white;
 }
 
+.menu2 {
+list-style:none;
+background-color:white;
+display:flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content:center;
+align-items:center;
+width:100%;
+margin-top:0;
+}
+
+.menu2 li {
+    margin:2rem;
+}
+
 
 section {
-    min-height:100vh;
+    min-height:150vh;
     width:100%;
+    margin:auto;
 }
 
-.boutique {
-background-color:rgb(35, 184, 16);
+
+.slid {
+    background-color:green;
 }
+
+
+.boutique {
+    background-color:rgb(21, 54, 6);
+    }
 
 .troc {
 background-color:rgb(6, 6, 54);
@@ -76,6 +102,7 @@ img.superbg {
     left:0;
     z-index:-1;
     object-fit: cover;
+    width:100%;
 }
 
 .card {
@@ -89,7 +116,7 @@ h1 {
 }
 
 footer {
-    min-height:15vh;
+    min-height:30vh;
     width:100%;
     background-color:black;
     color:white;

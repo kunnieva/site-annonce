@@ -7,11 +7,14 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <link rel="stylesheet" href="assets/css/style-accueil.css" type="text/css" media="screen">
+<title>Site Annonce</title>
 <style>
+    
 body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
 }
+
 
 .topnav {
   overflow: hidden;
@@ -69,39 +72,53 @@ body {
 <header>
     <nav>
 <!-- nav responsive https://www.w3schools.com/howto/howto_js_topnav_responsive.asp-->
-    <div class="topnav" id="myTopnav">           
-        <a href="#home" class="active"><button class="bouton-annonce">Déposer votre annonce</button></a>                      
-        <a href="#news"><img src="assets/images/photo-site/logo-1.png" class="logo" alt="Logo"
-                w/></a>
-        <a href="#contact">Aide et contact <img src="assets/images/icone-projet/information.png" alt="Information" widht="32" height="32"></a>
-        <a href="#about"><button>Votre recherche</button></a>
-        <a href="#compte"><img src="assets/images/icone-projet/avatar.png" alt="Votre compte" widht="32" height="32"/></a>
-        <a href="#panier"><img src="assets/images/icone-projet/shopping-basket.png" alt="Votre panier" widht="32" height="32"/></a>
-<!--menu déroulant pour langues étrangères-->
-        
-        <div class="dropdown">
-                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <img src="assets/images/icone-projet/internet.png" alt="Votre panier" widht="32" height="32"/>
-                </button>
-                <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                    <button class="dropdown-item" type="button">Français</button>
-                    <button class="dropdown-item" type="button">Anglais</button>
-                    <button class="dropdown-item" type="button">Espagnol</button>
-                    <button class="dropdown-item" type="button">Russe</button>
-                </div>
-                </div>
-        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-            <i class="fa fa-bars"></i>
-        </a>
+        <div class="topnav" id="myTopnav">           
+            <a href="#home" class="active"><button class="bouton-annonce">Déposer votre annonce</button></a>                      
+            <a href="#news"><img src="assets/images/photo-site/logo-1.png" class="logo" alt="Logo"/></a>
+            <a href="#contact"class="aide">Aide et contact <img src="assets/images/icone-projet/information.png" alt="Information" width="32" height="32"></a>
+            <a href="#about"><button>Votre recherche <img src="assets/images/icone-projet/search.png" class="recherche" alt="recherche"></button></a>
+            <a href="#compte"><img src="assets/images/icone-projet/avatar.png" alt="Votre compte" width="32" height="32"/></a>
+            <a href="#panier"><img src="assets/images/icone-projet/shopping-basket.png" alt="Votre panier" width="32" height="32"/></a>
+    
+            <!--menu déroulant pour langues étrangères-->
+            
+            
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars"></i>
+            </a>
+        </div>
     </nav>
+    <div >
+        <ul class="menu2">
+            <li><a href="#">Boutique</a></li>
+            <li><a href="#">Troc</a></li>
+            <li><a href="#">XXX</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Espace Pro</a></li>
+            <li><a href="#">Conseil Déco</a></li>
+            <li><a href="#">Le Mag</a></li>    
+            <li>
+                <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <img src="assets/images/icone-projet/internet.png" alt="Votre panier" width="32" height="32"/>
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                        <button class="dropdown-item" type="button">Français</button>
+                        <button class="dropdown-item" type="button">Anglais</button>
+                        <button class="dropdown-item" type="button">Espagnol</button>
+                        <button class="dropdown-item" type="button">Russe</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        </div>
     </div>
 </header>
 <main>
-    <section class="présentation">
-            <img src="assets/images/photo-site/noel.jpg" class="superbg"  width="100%" height="900" />
-            
+    <section class="présentation" >
+            <img src="assets/images/photo-site/noel.jpg" class="superbg" alt="Noel"/>           
     </section>
-    <section class="slider">
+    <section class="slid">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
