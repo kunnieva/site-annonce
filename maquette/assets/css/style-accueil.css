@@ -73,14 +73,14 @@ margin-top:0;
 
 
 section {
-    min-height:150vh;
-    width:100%;
-    margin:auto;
+    min-height:120vh;
 }
 
 
 .slid {
     background-color:green;
+    padding-bottom:0;
+    margin-bottom:0;
 }
 
 
