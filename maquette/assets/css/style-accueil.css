@@ -5,7 +5,8 @@ html {
 
 header {
     margin-top:0;
-    min-height:50vh;
+    min-height:0vh;
+    margin-bottom:0;
 }
 
 nav {
@@ -26,7 +27,7 @@ nav {
     background-color:red;
     box-shadow: 3px 3px white;
     color:white;
-}
+}1
 
 .logo {
     
@@ -56,6 +57,7 @@ section {
     min-height:100vh;
     width:100%;
 }
+
 .slider {
 background-color:rgb(95, 10, 24);
 }
@@ -70,4 +72,12 @@ background-color:rgb(6, 6, 54);
 
 .services {
 background-color:rgb(148, 127, 9);
+}
+
+img.superbg {
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:-1;
+    object-fit: cover;
 }
