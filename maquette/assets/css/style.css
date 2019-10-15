@@ -1,3 +1,29 @@
 p {
-    color: peru;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-family: Roboto;
+    font-size: 32px;
+    padding: 20px;
+}
+#contact {
+    background-color:#9A0B1B ;
+    text-align: center;
+}
+#images {
+    text-align: center; 
+}
+#mono {
+    text-align: right;
+    padding: 0mm;
+    margin: 10mm;
+}
+h2 {
+    color: #ffffff;
+    font-family: Roboto;
+    margin: 0px;
+    padding: 30px;
+}
+#adresse {
+    background-color: black;
 }
