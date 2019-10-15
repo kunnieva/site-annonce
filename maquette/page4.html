@@ -15,7 +15,7 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #333;
-  margin:auto;
+  width:100%;
 }
 
 .topnav a {
@@ -26,8 +26,6 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  background-color:red;
-  width:100%;
 }
 
 .topnav a:hover {
@@ -43,7 +41,7 @@ body {
   display: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1440px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -51,7 +49,7 @@ body {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1440px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
@@ -67,18 +65,23 @@ body {
 </style>
 </head>
 <body>
+    <header>
+        <nav>
 <!-- nav responsive https://www.w3schools.com/howto/howto_js_topnav_responsive.asp-->
-<div class="topnav" id="myTopnav">
-  <a href="#home" class="active"><button class="bouton-annonce">Déposer votre annonce</button></a>
-  <a href="#news"><img src="assets/images/images_site/logo-1.png" class="logo" alt="Logo"  style="background-color:green;width:100px;height:100px;"/></a>
-  <a href="#contact">Aide et contact <img src="assets/images/icone-projet/information.png" alt="Information" widht="32" height="32"></a>
-  <a href="#about"><button>Votre recherche</button></a>
-  <a href="#compte"><img src="assets/images/icone-projet/avatar.png" alt="Votre compte" widht="32" height="32"/></a>
-  <a href="#panier"><img src="assets/images/icone-projet/shopping-basket.png" alt="Votre panier" widht="32" height="32"/></a>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
-  </a>
-</div>
+        <div class="topnav" id="myTopnav">           
+            <a href="#home" class="active"><button class="bouton-annonce">Déposer votre annonce</button></a>                      
+            <a href="#news"><img src="assets/images/photo-site/logo-1.png" class="logo" alt="Logo"
+                 w/></a>
+            <a href="#contact">Aide et contact <img src="assets/images/icone-projet/information.png" alt="Information" widht="32" height="32"></a>
+            <a href="#about"><button>Votre recherche</button></a>
+            <a href="#compte"><img src="assets/images/icone-projet/avatar.png" alt="Votre compte" widht="32" height="32"/></a>
+            <a href="#panier"><img src="assets/images/icone-projet/shopping-basket.png" alt="Votre panier" widht="32" height="32"/></a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars"></i>
+            </a>
+        </nav>
+        </div>
+    </header>
 <main>
     <section class="slider">
         <h1>Slider</h1>
