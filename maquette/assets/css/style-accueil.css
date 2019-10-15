@@ -58,10 +58,6 @@ section {
     width:100%;
 }
 
-.slider {
-background-color:rgb(95, 10, 24);
-}
-
 .boutique {
 background-color:rgb(35, 184, 16);
 }
@@ -80,4 +76,22 @@ img.superbg {
     left:0;
     z-index:-1;
     object-fit: cover;
+}
+
+.card {
+    margin:1em;
+    background-color:red;
+}
+
+h1 {
+    text-align: center;
+    padding-top:3rem;
+}
+
+footer {
+    min-height:15vh;
+    width:100%;
+    background-color:black;
+    color:white;
+    margin-top:0;
 }
