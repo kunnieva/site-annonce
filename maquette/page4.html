@@ -109,10 +109,10 @@ font-family: Arial, Helvetica, sans-serif;
                 </div>
             </li>
             <li>
-                <div class="recherche">
+                <form action=" " method="POST"  class="recherche">
                     <input placeholder="Votre recherche" type="text" class="entrerRecherche"/> 
-                    <input type="image" src="assets/images/icone-projet/search.png" class="recherche2" style="margin:-3px;" alt="recherche" >          
-                </div>
+                    <button><img src="assets/images/icone-projet/search.png" class="recherche2" style="margin:-3px;" alt="recherche" ></button>          
+                </form>
             </li>
         </ul>
     </div>
@@ -376,8 +376,10 @@ font-family: Arial, Helvetica, sans-serif;
         </div>
     </section>
     <section class="newsletter">
-        <p>Inscription à la newsletter</p><input type="text" placeholder="entrer votre mail"/><input type="submit" value="envoyer"/>
+        <form>
+        <p>Inscription à la newsletter</p><input type="text" placeholder="Entrer votre mail"/><button value="envoyer">Envoyer</button></form>
         <a href=”mailto:#managingemail# ?Subject=Unsubscribe”><br/>Pour vous désinscrire cliquez ici</a>
+    
     </section>
 </main>
 <footer>
