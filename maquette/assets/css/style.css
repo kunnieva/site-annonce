@@ -1,3 +1,17 @@
+html {
+    margin:0;
+    padding:0;
+    background-color:green;
+    height:100%;
+}
+
+body {
+    position: relative;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
 p {
     text-align: center;
     color: black;
@@ -24,6 +38,28 @@ h2 {
     margin: 0px;
     padding: 30px;
 }
-#adresse {
-    background-color: black;
+
+footer {
+    margin-bottom:0;
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    right: 0
 }
+
+.reseaux-sociaux  {
+    width:32px;
+    height:32px;
+    margin:20px;  
+}
+
+#adresse {
+    background-color: red;
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    width:100%;
+}
+
+
+
