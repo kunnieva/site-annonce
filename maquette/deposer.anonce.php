@@ -12,9 +12,9 @@
  <p class="form_left"> 
 					<label for="options">Catégorie :</label>				</p>
 				
-				<p class="form_right_select"><select id="options" name="cat" class="select_recherche_form" onchange="DisplayOptions(); DisplayComment(); DisplayPrix()"><option value="0">Choisissez la catégorie</option><option value="47">Bodies</option><option value="62">T-shirt & brassières</option><option value="49">Bermudas & Shorts</option><option value="50">Pantalons</option><option value="51">Jeans</option><option value="79">Dors-bien & Pyjamas</option><option value="173">Pull & Gilets</option><option value="166">Robes & Jupes</option><option value="60">Manteaux & Vestes</option><option value="52">Legging & Collants</option>><option value="140">Ensembles & Combinaisons</option><option value="139">Bonnets & Chapeaux</option><option value="143">Maillots de bain</option><option value="92">Jouets</option><option>Deguissements</option>
+				<p class="form_right_select"><select id="options" name="cat" class="select_recherche_form" onchange="DisplayOptions(); DisplayComment(); DisplayPrix()"><option value="0">Choisissez la catégorie</option><option value="47">Bodies</option><option value="62">T-shirt & brassières</option><option value="49">Bermudas & Shorts</option><option value="50">Pantalons</option><option value="51">Jeans</option><option value="79">Dors-bien & Pyjamas</option><option value="173">Pull & Gilets</option><option value="166">Robes & Jupes</option><option value="60">Manteaux & Vestes</option><option value="52">Legging & Collants</option>><option value="140">Ensembles & Combinaisons</option><option value="139">Bonnets & Chapeaux</option><option value="143">Maillots de bain</option><option value="92">Jouets</option><option>Deguissements</option> </div> </p>
 				
-										<div id="display_prix"></div>
+	<div id="display_prix"></div>
 											
 				<div id="options_form">
 									</div>	
@@ -29,7 +29,7 @@
 													<input type="radio" id="sta2" name="sta" checked = "checked" onclick="turnImgRadio(this, 1);  GetPro(2, 'Nom de votre entreprise', 'N° SIREN de Entreprise', '0');" value="2" />
 							<label for="sta2">Professionnel</label>
 											</p>
-				</div>
+				
 								
 								<div id="get_pro">
 											<p class="form_left">
