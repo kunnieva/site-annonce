@@ -1,8 +1,16 @@
 html {
     margin:0;
     padding:0;
+    height:100%;
 }
 
+body {
+    position: relative;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+  }
 
 header {
     margin-top:0;
@@ -131,10 +139,62 @@ h1 {
     padding-top:3rem;
 }
 
-footer {
-    min-height:30vh;
-    width:100%;
-    background-color:black;
-    color:white;
-    margin-top:0;
+
+
+#contact {
+    background-color:#9A0B1B ;
+    text-align: center;
 }
+
+#images {
+    text-align: center; 
+}
+
+#mono {
+    text-align: right;
+    padding: 0mm;
+    margin: 10mm;
+}
+h2 {
+    color: #ffffff;
+    font-family: Roboto;
+    margin: 0px;
+    padding: 30px;
+}
+h4,h5 {
+    color:white;
+}
+
+footer {
+    margin-bottom:0;
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    right: 0
+}
+
+.reseaux-sociaux  {
+    width:32px;
+    height:32px;
+    margin:20px;  
+}
+
+#adresse {
+    background-color: red;
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    width:100%;
+}
+
+#scroll_to_top { 
+    position: fixed; 
+    width: 25px; 
+    height: 25px; 
+    bottom: 50px; 
+    right: 30px; 
+  } 
+  #scroll_to_top img { 
+    width: 25px; 
+  }
+
