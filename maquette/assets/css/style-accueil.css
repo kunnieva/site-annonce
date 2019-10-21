@@ -46,7 +46,6 @@ nav {
 }
 
 .menu {
-    background-color:yellow;
     width:50%;
     display:flex;
     flex-direction:row;
@@ -121,7 +120,7 @@ color:white;
 
 .card {
     margin:1em;
-    background-color:red;
+    
 }
 
 h1 {
