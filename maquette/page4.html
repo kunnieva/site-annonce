@@ -1,6 +1,6 @@
-
+<!-- page accueil thème noel-->
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -75,7 +75,7 @@ font-family: Arial, Helvetica, sans-serif;
         <div class="topnav" id="myTopnav">           
             <div class="active" style="display:flex;flex-direction: row;justify-content: flex-start;flex-wrap: wrap;align-items: center;padding-left:2rem;"><button class="bouton-annonce">Déposer votre annonce</button>                      
             <a href="#news"><img src="assets/images/photo-site/logo-1.png" class="logo" alt="Logo"/></a>
-            <a href="#contact" class="aide">Aide et contact <img src="assets/images/icone-projet/information.png" alt="Information" width="32" height="32"></a>
+            <a href="index-faq.html" class="aide">Aide et contact <img src="assets/images/icone-projet/information.png" alt="Information" width="32" height="32"></a>
             <a href="#compte"><img src="assets/images/icone-projet/avatar.png" alt="Votre compte" width="32" height="32"/></a>
             <a href="#panier"><img src="assets/images/icone-projet/shopping-basket.png" alt="Votre panier" width="32" height="32"/></a>
             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -377,13 +377,47 @@ font-family: Arial, Helvetica, sans-serif;
     </section>
     <section class="newsletter">
         <form>
-        <p>Inscription à la newsletter</p><input type="text" placeholder="Entrer votre mail"/><button value="envoyer">Envoyer</button></form>
-        <a href=”mailto:#managingemail# ?Subject=Unsubscribe”><br/>Pour vous désinscrire cliquez ici</a>
+            <label for="contact-email">Inscription Newsletter</label>
+            <input type="email" placeholder="Entrer votre mail"  name="email" required id="contact-email"/>
+            <button type="submit" >Envoyer</button>
+        </form>
+        <a href="mailto:#managingemail#?Subject=Unsubscribe"><br/>Pour vous désinscrire cliquez ici</a>
     
     </section>
 </main>
 <footer>
- <h1>Contact</h1>   
+        
+ <!--reseaux sociaux-->
+     <div id="contact" >
+         <h4>NOUS CONTACTER</h4>
+         <div id="images" style="margin:auto;width:50%;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-around;align-items:center;">
+             <img class="reseaux-sociaux" src="assets/images/icone-projet/faceb.png"  alt="facebook">            
+             <img class="reseaux-sociaux" src="assets/images/icone-projet/instagram.png"  alt="instagram">
+             <img class="reseaux-sociaux" src="assets/images/icone-projet/linkedin.png" alt="linkedin">
+             <img class="reseaux-sociaux" src="assets/images/icone-projet/twitter.png"  alt="twitter">
+             <img class="reseaux-sociaux" src="assets/images/icone-projet/youtube.png"  alt="youtube">
+             <img class="reseaux-sociaux" src="assets/images/icone-projet/telep.png"  alt="telephone">
+         </div>
+     </div>
+  <!--contact-->  
+     <div id="adresse" style="margin:auto;background-color:black;padding-top:3rem;padding-left 2rem;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center;">
+         <div style="width:20%;margin-left:8rem;margin-right:8rem;">
+             <h4> CONTACT</h4>
+             <h5>XXX</h5>
+             <h4>ADRESSE</h4>
+             <h5>XXX</h5>
+         </div>
+ <!--icone contact-->        
+         <div style="margin-right:5rem;margin-left:5rem;padding:0 5rem 0 3rem;width:20%;display:flex;flex-direction:row;flex-wrap:wrap;justify-content: space-around;align-items:center;">
+             <img src="assets/images/icone-projet/gmail.png" alt="mail">
+             <img src="assets/images/icone-projet/map_mini.png" alt="map">
+         </div>  
+         <br/>
+         <div id="scroll_to_top"> 
+                 <a href="#top"><img src="assets/images/icone-projet/chevron.png" alt="chevron" style="float:right;margin-right:0;width:32px;height:32px;"></a> 
+             </div>    
+      
+     </div>       
 </footer>
 
 
@@ -403,5 +437,6 @@ function myFunction() {
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script src="script/jquery.js" type="text/javascript"></script>
 <script src="script/background.js" type="text/javascript"></script>	
+<script src="script/js/main-accueil.js" type="text/javascript"></script>
 </body>
 </html>
