@@ -46,7 +46,6 @@ nav {
 }
 
 .menu {
-    background-color:yellow;
     width:50%;
     display:flex;
     flex-direction:row;
@@ -99,25 +98,14 @@ section {
 
 
 .slid {
-    background-color:green;
     padding-bottom:0;
     margin-bottom:0;
 }
 
 
-.boutique {
-    background-color:rgb(21, 54, 6);
-    }
 
-.troc {
-background-color:rgb(6, 6, 54);
-}
-
-.services {
-background-color:rgb(148, 127, 9);
-}
  .newsletter {
-background-color:rgb(37, 2, 28);
+background-color:rgb(94, 97, 93);
 color:white;
  }
 
@@ -132,7 +120,7 @@ color:white;
 
 .card {
     margin:1em;
-    background-color:red;
+    
 }
 
 h1 {
