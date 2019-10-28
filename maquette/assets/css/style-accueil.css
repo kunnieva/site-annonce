@@ -1,0 +1,189 @@
+html {
+    margin:0;
+    padding:0;
+    height:100%;
+}
+
+body {
+    position: relative;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+  }
+
+header {
+    margin-top:0;
+    min-height:30vh;
+    margin-bottom:0;
+    background-color:white;
+}
+
+
+nav {
+    min-height : 10vh;
+    width : 100%;
+    background-color:black;
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.bouton-annonce {    
+    width:15rem;
+    height:5rem;
+    background-color:red;
+    box-shadow: 3px 3px white;
+    color:white;
+}
+
+.logo {
+    width:100px;
+    height:100px;
+}
+
+.menu {
+    width:50%;
+    display:flex;
+    flex-direction:row;
+    justify-content: flex-end;
+}
+.aide {
+    zoom:1.1;
+}
+
+.recherche {
+    float:right;
+    margin-right:2rem;
+    margin-top:-1rem;
+}
+
+.recherche2 {
+    width:20px;
+    height:20px;       
+}
+
+
+
+menu a {   
+    list-style:none;
+    background-color:rgb(0, 255, 136);    
+    width:20rem;
+    color:white;
+}
+
+.menu2 {
+list-style:none;
+background-color:white;
+display:flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content:center;
+align-items:center;
+width:100%;
+margin-top:0;
+}
+
+.menu2 li {
+    margin:2rem;
+}
+
+
+section {
+    min-height:120vh;
+}
+
+
+.slid {
+    padding-bottom:0;
+    margin-bottom:0;
+}
+
+
+
+ .newsletter {
+background-color:rgb(94, 97, 93);
+color:white;
+ }
+
+ img.superbg {
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:-1;
+    object-fit: cover;
+    width:100%;
+}
+
+.card {
+    margin:1em;
+    
+}
+
+h1 {
+    text-align: center;
+    padding-top:3rem;
+}
+
+
+
+#contact {
+    background-color:#9A0B1B ;
+    text-align: center;
+}
+
+#images {
+    text-align: center; 
+}
+
+#mono {
+    text-align: right;
+    padding: 0mm;
+    margin: 10mm;
+}
+h2 {
+    color: #ffffff;
+    font-family: Roboto;
+    margin: 0px;
+    padding: 30px;
+}
+h4,h5 {
+    color:white;
+}
+
+footer {
+    margin-bottom:0;
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    right: 0
+}
+
+.reseaux-sociaux  {
+    width:32px;
+    height:32px;
+    margin:20px;  
+}
+
+#adresse {
+    background-color: red;
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    width:100%;
+}
+
+#scroll_to_top { 
+    position: fixed; 
+    width: 25px; 
+    height: 25px; 
+    bottom: 50px; 
+    right: 30px; 
+  } 
+  #scroll_to_top img { 
+    width: 25px; 
+  }
+
