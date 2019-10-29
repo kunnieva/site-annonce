@@ -19,3 +19,7 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+// espace membre
+// DANS LA CLASSE AnnonceController JE DOIS CREER LA MEHODE deposerAnnonce
+Route::get('/deposer-annonce', 'AnnonceController@deposerAnnonce')->name('deposer-annonce');
