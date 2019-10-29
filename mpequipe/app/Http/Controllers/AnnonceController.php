@@ -7,6 +7,15 @@ use Illuminate\Http\Request;
 
 class AnnonceController extends Controller
 {
+
+    // METHODE POUR L'URL deposer-annonce
+    function deposerAnnonce ()
+    {
+        // afficher le template deposer-annonce.blade.php
+        return view('deposer-annonce');
+    }
+
+
     /**
      * Display a listing of the resource.
      *

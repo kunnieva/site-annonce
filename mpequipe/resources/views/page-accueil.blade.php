@@ -75,10 +75,11 @@ font-family: Arial, Helvetica, sans-serif;
     <nav>
 <!-- nav responsive https://www.w3schools.com/howto/howto_js_topnav_responsive.asp-->
         <div class="topnav" id="myTopnav">           
-            <div class="active" style="display:flex;flex-direction: row;justify-content: flex-start;flex-wrap: wrap;align-items: center;padding-left:2rem;"><button class="bouton-annonce">Déposer votre annonce</button>                      
+            <div class="active" style="display:flex;flex-direction: row;justify-content: flex-start;flex-wrap: wrap;align-items: center;padding-left:2rem;"><a href="deposer-annonce" class="bouton-annonce">Déposer votre annonce</a>                      
             <a href="#news"><img src="assets/images/photo-site/logo-1.png" class="logo" alt="Logo"/></a>
             <a href="index-faq.html" class="aide">Aide et contact <img src="assets/images/icone-projet/information.png" alt="Information" width="32" height="32"></a>
-            <a href="#compte"><img src="assets/images/icone-projet/avatar.png" alt="Votre compte" width="32" height="32"/></a>
+            <a href="register">créer mon compte</a>
+            <a href="login"><img src="assets/images/icone-projet/avatar.png" alt="Votre compte" width="32" height="32"/></a>
             <a href="#panier"><img src="assets/images/icone-projet/shopping-basket.png" alt="Votre panier" width="32" height="32"/></a>
             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                 <i class="fa fa-bars"></i>
