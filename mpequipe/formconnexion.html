@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
   <title>Formulaire de connexion</title>
   <link rel="stylesheet" type="text/css" href="style.css">
@@ -16,11 +16,11 @@
   </div>
 
   <div class="container">
-    <label for="Pseudonyme"><b>Pseudonyme</b></label>
-    <input type="text" placeholder="Entrer votre pseudonyme" name="uname" required>
+    <label for="pseudonyme">Pseudonyme</label>
+    <input type="text" placeholder="Entrer votre pseudonyme" id="pseudonyme" name="pseudonyme" required>
 
-    <label for="psw"><b>Mot de passe</b></label>
-    <input type="password" placeholder="Entrer votre mot de passe" name="psw" required>
+    <label for="pass"><b>Password (8 caractères minimum)</b></label>
+    <input type="password" placeholder="Entrer votre mot de passe" id="pass" name="password" required>
        
     <button type="submit">Soumettre</button>
     <label>
@@ -28,7 +28,7 @@
     </label>
   </div>
 
-  <div class="container" 
+  <div class="container"> 
     <button type="button" class="cancelbtn">Annuler</button>
     <span class="psw">oublié <a href="#">Mot de passe?</a></span>
   </div>
