@@ -1,0 +1,89 @@
+element.style {
+}
+<style>
+.profile__row-center {
+    justify-content: center;
+}
+<style>
+.profile__ikea-row {
+    display: block;
+    display: flex;
+    flex-wrap: wrap;
+}
+<style>
+blockquote, body, caption, div, dl, dt, dd, form, fieldset, h1, h2, h3, h4, h5, h6, html, li, ul, ol, p, pre, textarea, table, td, th, article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section {
+    margin: 0;
+    padding: 0;
+}
+blockquote, body, caption, div, dl, dt, dd, form, fieldset, h1, h2, h3, h4, h5, h6, html, li, ul, ol, p, pre, textarea, table, td, th, article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section {
+    margin: 0;
+    padding: 0;
+}
+<style>
+*, *:before, *:after {
+    box-sizing: inherit;
+    outline: none;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+    outline: none;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+<style>
+body {
+    margin: 0;
+    background: #ffffff;
+    color: #111111;
+    min-height: 100%;
+    margin: 0;
+}
+body {
+    font-family: 'Noto IKEA', 'Noto Sans', 'Roboto', 'Open Sans', sans-serif !important;
+}
+body {
+    margin: 0;
+    background: #fff;
+    color: #111;
+    min-height: 100%;
+    margin: 0;
+}
+<style>
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    font: 100% sans-serif;
+    box-sizing: border-box;
+    line-height: 1.5;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    font: 100% sans-serif;
+    box-sizing: border-box;
+    line-height: 1.5;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+<style>
+*, *:before, *:after {
+    box-sizing: inherit;
+    outline: none;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+    outline: none;
+}
+<style>
+*, *:before, *:after {
+    box-sizing: inherit;
+    outline: none;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+    outline: none;
+}
