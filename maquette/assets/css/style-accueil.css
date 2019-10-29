@@ -69,8 +69,7 @@ nav {
 
 
 menu a {   
-    list-style:none;
-    background-color:rgb(0, 255, 136);    
+    list-style:none;    
     width:20rem;
     color:white;
 }
@@ -102,13 +101,6 @@ section {
     margin-bottom:0;
 }
 
-
-
- .newsletter {
-background-color:rgb(94, 97, 93);
-color:white;
- }
-
  img.superbg {
     position:fixed;
     top:0;
@@ -116,6 +108,9 @@ color:white;
     z-index:-1;
     object-fit: cover;
     width:100%;
+}
+.troc,.services,.boutique {
+    background-color:rgb(184, 179, 179,1);
 }
 
 .card {
@@ -128,12 +123,6 @@ h1 {
     padding-top:3rem;
 }
 
-
-
-#contact {
-    background-color:#9A0B1B ;
-    text-align: center;
-}
 
 #images {
     text-align: center; 
