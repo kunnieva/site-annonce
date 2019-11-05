@@ -90,12 +90,6 @@ margin-top:0;
     margin:2rem;
 }
 
-
-section {
-    height:vh;
-}
-
-
 .slid {
     padding-bottom:0;
     margin-bottom:0;
@@ -110,7 +104,7 @@ section {
     width:100%;
 }
 .troc,.services,.boutique {
-    background-color:rgb(184, 179, 179,1);
+    background-color:white;
 }
 
 .card {

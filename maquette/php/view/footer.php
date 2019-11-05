@@ -4,9 +4,12 @@
 
 </main>    
 <footer>
-       <label for="contact-email">Inscription Newsletter</label>
-       <input type="email" placeholder="entrez votre email" name="email" required id="contact-email">
-       <button type="submit">envoyer</button>
+    <div style="background-color:#9A0B1B;padding-top:30px;">
+        <div style="text-align:center;">
+            <label for="contact-email" style="margin-right:20px;font-size:1.5em;font-weight:bold;color:white;">Inscription Newsletter </label>
+            <input type="email" placeholder="entrez votre email" name="email" required id="contact-email">
+            <button type="submit">envoyer</button>
+        </div>
 <!--reseaux sociaux-->
     <div id="contact" >
         <p>NOUS CONTACTER</p>
@@ -38,6 +41,7 @@
                     <img src="assets/images/icone-projet/chevron.png" alt="chevron" style="float:right;margin-right:0;width:32px;height:32px;"></a> 
         </div>    
      
+    </div>
     </div>       
 </footer>
 <!-- code js-->
