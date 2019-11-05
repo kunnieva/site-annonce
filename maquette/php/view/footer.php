@@ -2,9 +2,7 @@
 <!-- Footer-->
 <!--ValidationW3C OK-->
 
-
 </main>    
-
 <footer>
        <label for="contact-email">Inscription Newsletter</label>
        <input type="email" placeholder="entrez votre email" name="email" required id="contact-email">
@@ -36,10 +34,28 @@
         </div>  
         <br/>
         <div id="scroll_to_top"> 
-                <a href="#top"><img src="assets/images/icone-projet/chevron.png" alt="chevron" style="float:right;margin-right:0;width:32px;height:32px;"></a> 
-            </div>    
+                <a href="#top">
+                    <img src="assets/images/icone-projet/chevron.png" alt="chevron" style="float:right;margin-right:0;width:32px;height:32px;"></a> 
+        </div>    
      
     </div>       
 </footer>
+<!-- code js-->
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="script/jquery.js" type="text/javascript"></script>
+<script src="script/background.js" type="text/javascript"></script>	
+<script src="script/js/main-accueil.js" type="text/javascript"></script>
 </body>
 </html>

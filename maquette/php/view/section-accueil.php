@@ -33,11 +33,11 @@
             <div class="row">
                 
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -45,55 +45,77 @@
                 </div>
                 
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
                 
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example. </p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
                     
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -109,11 +131,11 @@
             <div class="row">
                 
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -121,55 +143,77 @@
                 </div>
                 
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
                 
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text"style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
                     
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-sm">
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm">
+                    <div class="card">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -186,10 +230,10 @@
                 
                 <div class="col-sm">
                     <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -198,10 +242,10 @@
                 
                 <div class="col-sm">
                     <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -209,10 +253,10 @@
                 
                 <div class="col-sm">
                     <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -220,10 +264,10 @@
                     
                 <div class="col-sm">
                     <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -231,10 +275,10 @@
 
                 <div class="col-sm">
                     <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -242,10 +286,10 @@
 
                 <div class="col-sm">
                     <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
