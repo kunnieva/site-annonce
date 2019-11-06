@@ -1,3 +1,5 @@
+
+
 function redimensionnement(){ 
  
     var $image = $('img.superbg');
@@ -39,4 +41,5 @@ $(document).ready(function(){
         redimensionnement(); 
     }); 
  
-}); 
+});
+
