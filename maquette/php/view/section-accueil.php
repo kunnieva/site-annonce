@@ -16,7 +16,7 @@
                     <img src="assets/images/photo-site/jeux-eveil.jpg" class="d-block w-100" alt="jeux eveil">
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/images/photo-site/mappemonde.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/images/photo-site/mappemonde.jpg" class="d-block w-100" alt="mappemonde">
                 </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -39,11 +39,11 @@
                     
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/boutique-boy.jpg"  class="card-img-top" alt="boutique garçon">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Mode Garçon</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     
@@ -51,44 +51,44 @@
                     
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/boutique-girl.jpg" class="card-img-top" alt="boutique fille">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Mode Fille</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     </div>
                     
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/boutique-ours.jpg" class="card-img-top" alt="boutique jouet">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example. </p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Jouet Enfant</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     </div>
                         
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/boutique-landau.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;"> Promenade</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/boutique-chambre.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Ameublement</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     </div>
