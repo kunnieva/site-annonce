@@ -1,9 +1,10 @@
 <!--section PHOTO PRESENTATION-->
 <div style="padding-bottom:430px;">
-    <section class="présentation" >
+    <section class="présentation" style="height:550px;" >
         <img src="assets/images/photo-site/noel.jpg" class="superbg" alt="Noel" style="objet-fit:cover;"/>           
     </section>
-<!--section CARROUSEL-->   
+<!--section CARROUSEL-->  
+
     <section class="slid">
         <div style="objet-fit:cover;">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -28,7 +29,7 @@
                 </a>
             </div>
         </div>
-    </section>
+    </section> 
 <!--section BOUTIQUE-->
     <section class="boutique">
         <div style="padding-bottom:100px;padding-top:40px;background-color:white;">

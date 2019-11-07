@@ -73,8 +73,8 @@ font-family: Arial, Helvetica, sans-serif;
 <header style="width:100%;">
     <nav>
 <!-- nav responsive https://www.w3schools.com/howto/howto_js_topnav_responsive.asp-->
-        <div class="topnav active" id="myTopnav" style="display:flex;flex-direction: row;justify-content: flex-start;flex-wrap: wrap;align-items: center;padding-left:2rem;width:100%;">           
-           
+        <div class="topnav " id="myTopnav">           
+          <div  style="display:flex;flex-direction: row;justify-content: flex-start;flex-wrap: wrap;align-items: center;padding-left:2rem;"> 
           <button class="bouton-annonce">Déposer votre annonce</button> 
             <div style="margin-left:400px;display:flex;flex-direction: row;justify-content: flex-start;flex-wrap: wrap;align-items: center;padding-left:2rem;">                     
               <a href="#news"><img src="assets/images/photo-site/LKBOS2.png" class="logo" alt="Logo"/></a>
@@ -86,7 +86,8 @@ font-family: Arial, Helvetica, sans-serif;
                       <i class="fa fa-bars"></i>
                   </a>
                 </div>
-            </div>            
+            </div> 
+            </div>           
         </div>
     </nav>
 <!--menu SELECTION PAGES-->
