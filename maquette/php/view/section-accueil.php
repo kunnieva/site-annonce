@@ -65,7 +65,7 @@
                             <img src="assets/images/photo-site/boutique-ours.jpg" class="card-img-top" alt="boutique jouet">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Jouet Enfant</p>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Jouets Enfant</p>
                                 <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
@@ -73,7 +73,7 @@
                         
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/boutique-landau.jpg" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/boutique-landau.jpg" class="card-img-top" alt="boutique promenade">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
                                 <p class="card-text" style="color:blue;font-size:1.3em;"> Promenade</p>
@@ -84,7 +84,7 @@
 
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/boutique-chambre.jpg" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/boutique-chambre-mini.png" class="card-img-top" alt="boutique ameublement">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
                                 <p class="card-text" style="color:blue;font-size:1.3em;">Ameublement</p>
@@ -95,33 +95,33 @@
 
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/boutique-decoration.jpg" class="card-img-top" alt="boutique décoration">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Espace Décoration</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/boutique-vintage.jpg" class="card-img-top" alt="boutique vintage">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Espace Vintage</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/boutique-cadeaux.jpg" class="card-img-top" alt="boutique cadeaux">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Espace Cadeaux</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     </div>
@@ -131,22 +131,33 @@
         </div>     
     </section>
 <!--section TROC-->
-    <section class="troc">
-        <div style="padding-bottom:100px;padding-top:40px;background-color:white;">
-            <h1 style="padding:50px 0 50px 0;">TROC</h1>
+    <section class="troc" >
+    <div style="padding-bottom:100px;padding-top:40px;background-color:white;">
+            <h1 style="padding:50px 0 50px 0;">SERVICES</h1>
             <div class="container">
                 <div class="row">
                     
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/troc-mode3.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Mode Enfant</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     
+                    </div>
+                    
+                    <div class="col-sm">
+                        <div class="card">
+                            <img src="assets/images/photo-site/troc-jouet4.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
+                            </div>
+                        </div>
                     </div>
                     
                     <div class="col-sm">
@@ -155,24 +166,13 @@
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
                                 <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-sm">
-                        <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text"style="color:blue;font-size:1.3em;">Some quick example.</p>
                                 <a href="#" class="btn btn-primary">Go somewhere</a>
                             </div>
                         </div>
                     </div>
                         
                     <div class="col-sm">
-                        <div class="card">
+                        <div class="card" >
                             <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
@@ -183,7 +183,7 @@
                     </div>
 
                     <div class="col-sm">
-                        <div class="card">
+                        <div class="card" >
                             <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
@@ -229,6 +229,7 @@
                 </div>
             </div>
         </div>
+        
     </section>
     
     <section class="services">
