@@ -139,7 +139,7 @@
                     
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/troc-mode3.jpg" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/troc-mode3.jpg" class="card-img-top" alt="troc mode">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
                                 <p class="card-text" style="color:blue;font-size:1.3em;">Mode Enfant</p>
@@ -154,7 +154,7 @@
                             <img src="assets/images/photo-site/troc-jouet4.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Jouets Enfant</p>
                                 <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
@@ -162,33 +162,33 @@
                     
                     <div class="col-sm">
                         <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/troc-poussette.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Promenade </p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     </div>
                         
                     <div class="col-sm">
                         <div class="card" >
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/troc-chambre5.jpg" class="card-img-top" alt="ameublement">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Ameublement</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-sm">
                         <div class="card" >
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                            <img src="assets/images/photo-site/troc-decoration.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Décoration</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     </div>
@@ -203,14 +203,13 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="col-sm">
-                        <div class="card">
-                            <img src="assets/images/photo-site/activite-enfant.png" class="card-img-top" alt="...">
+                        <div class="card" >
+                            <img src="assets/images/photo-site/troc-jeux-exterieur.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
-                                <p class="card-text" style="color:blue;font-size:1.3em;">Some quick example.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <p class="card-text" style="color:blue;font-size:1.3em;">Jeux</p>
+                                <a href="#" class="btn btn-primary">Voir</a>
                             </div>
                         </div>
                     </div>
